@@ -1,0 +1,7 @@
+instance_type = "t3.medium"
+region = "eu-west-2"
+vpc_cidr = "10.0.0.0/18"
+pub_sub1_cidr = "10.0.11.0/24"
+pub_sub2_cidr = "10.0.13.0/24"
+priv_sub1_cidr = "10.0.15.0/24"
+priv_sub2_cidr = "10.0.17.0/24"
